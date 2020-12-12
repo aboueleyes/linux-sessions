@@ -14,7 +14,7 @@ for windows you can use [Windows Subsystem for
     curl --head --silent https://www.google.com/
     ```
 The first line called `shebang` (look it up !)
-what is `sh` ? hwo it is different from `bash` ? look it up and you can try something like `fish` or `zsh` 
+what is `sh` ? how it is different from `bash` ? look it up and you can try something like `fish` or `zsh` 
 
 4. Try to execute the file, i.e. type the path to the script `(./test)` into your shell and press enter. Understand why it doesn’t work by consulting the output of `ls` (hint: look at the permission bits of the file). is it executable ?
 
