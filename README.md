@@ -24,7 +24,7 @@ what is `sh` ? who it is different from `bash` ? look it up and you can try some
 
 7. Use chmod to make it possible to run the command `./test` rather than having to type `sh test`. How does your shell know that the file is supposed to be interpreted using `sh`?
 
-8. make a file called `testpy` , in the same manner make the file print "hello world" when executing it `./testpy`
+8. make a python file called `testpy` , in the same manner make the file print "hello world" when executing it `./testpy`
 
 9. what is the diiference between `>` and `>>` explain with exapmles 
 
