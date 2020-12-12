@@ -1,4 +1,4 @@
-# LC-Exercicses
+# LC-Exercises
 This is a  series of exercises. Some give you a specific task to do, while others are open-ended, We highly recommend  you to try them out.
 ## shell 
 for this tutorial you you need a Unix shell like bash or zsh, if you are on Linux , you don't have to do anything 
