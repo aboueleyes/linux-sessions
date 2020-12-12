@@ -18,7 +18,7 @@ what is `sh` ? who it is different from `bash` ? look it up and you can try some
 
 4. Try to execute the file, i.e. type the path to the script `(./test)` into your shell and press enter. Understand why it doesn’t work by consulting the output of `ls` (hint: look at the permission bits of the file). is it executable ?
 
-5. Run the command by explicitly starting the `sh` interpreter, and giving it the file semester as the first argument, i.e. `sh test`. Why does this work, while .`/test` didn’t?
+5. Run the command by explicitly starting the `sh` interpreter, and giving it the file test as the first argument, i.e. `sh test`. Why does this work, while .`/test` didn’t?
 
 6. Look up the `chmod` program (e.g. use `man chmod`).
 
