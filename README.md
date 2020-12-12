@@ -29,4 +29,5 @@ what is `sh` ? who it is different from `bash` ? look it up and you can try some
 9. what is the diiference between `>` and `>>` explain with exapmles 
 
 10. we talked about aliases. it is very common to alias `ll` to `ls -alh` How can you do it ?
- 
+
+Note : This is a markdown file , it is very easy to use, search how to use it. 
