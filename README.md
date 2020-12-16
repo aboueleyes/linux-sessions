@@ -11,7 +11,7 @@ for windows you can use [Windows Subsystem for
 3. write the following into that file 
     ```
     #!/bin/sh
-    curl --head --silent https://www.google.com/
+        curl --head --silent https://www.google.com/
     ```
 The first line called `shebang` (look it up !)
 what is `sh` ? how it is different from `bash` ? look it up and you can try something like `fish` or `zsh` 
