@@ -37,7 +37,7 @@ As the first line in the file is `#!/bin/sh` , the program loader is instructed 
 
 ### 8. make a python file called `testpy` , in the same manner make the file print "hello world" when executing it `./testpy`
 #### Answer :
-`$ echo '#!/bin/python3' > test.py `
+`$ echo '#!/usr/bin/python3' > test.py `
 
 `$ echo "print("Hello World!")" >> test.py`
 
