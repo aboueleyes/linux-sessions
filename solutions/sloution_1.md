@@ -1,7 +1,7 @@
 # Exersice 1
 ### 1. Make a directory called LC in your home dir
 #### Answer : bash 
-`$ mkdir Lc && cd LC`
+`$ mkdir LC && cd LC`
 ### 2. Use touch to create a new file called test in your LC dir
 #### Answer :
 `$ touch test`
