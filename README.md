@@ -31,3 +31,24 @@ what is `sh` ? how it is different from `bash` ? look it up and you can try some
 10. we talked about aliases. it is very common to alias `ll` to `ls -alh` How can you do it ?
 
 Note : This is a markdown file , it is very easy to use, search how to use it. 
+
+## Exersice 2 
+1. Follow this `tmux` [tutorial](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
+
+*oprional*
+then learn how to do some basic customizations following [these steps.](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
+
+2. explore the `fzf` program you can easily install it with apt run `fzf` what does it do ?
+
+you can do alot of things check this [tutorial](https://www.freecodecamp.org/news/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff/)
+
+3. try running `apt install vim` problem right ? so after it run `sudo !!` what just happen, try to guess and search for it , try `!15`
+
+4. run `histroy` what does it do ? search for advanced usage. how about `cat ~/.bash_history` what does this file contain? finally press `ctrl + r`. type something. can fzf be integrated here ?
+
+5. what is `symoblic links`? how to make them? think of examples when they are useful ?
+
+*optional* search for `hard links` how they differ from `symbolic links`
+after creating a `link` run `ls -l` what do you notice ? 
+
+6- what does `diff` command do ? how it is useful ? what about `patch`
