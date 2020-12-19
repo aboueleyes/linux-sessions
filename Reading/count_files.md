@@ -39,7 +39,7 @@ limit search to the first-level directory.
 To recursively count files in directory run the find command as follows:
 
 ```bash 
-$ find DIR_NAME -type f | wc -
+$ find DIR_NAME -type f | wc -l
 ```
 
 Another command that can be used to count files is `tree` that lists contents of directories in a `tree-like format`:
