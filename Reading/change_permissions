@@ -13,4 +13,3 @@ chmod -R MODE DIRECTORY
 ```bash 
 $ chmod -R 755 /var/www/html
 ```
-
